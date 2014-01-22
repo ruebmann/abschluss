@@ -1,0 +1,44 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+li
+{
+	float: left;
+	margin-left: 10px;
+	list-style-type: none;
+}
+
+ul
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+span#clear
+{
+	clear: both;
+	border: 1px solid white;   /*klaapt nicht, nur dann wenn die border da is - wtf?!?!*/
+}
+
+a:visited
+{
+	color: black;
+}
+
+a:link
+{
+	color: black;
+}
+
+a:hover
+{
+	color: red;
+}
+
+a
+{
+	text-decoration: none;
+}
